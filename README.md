@@ -1,0 +1,1 @@
+This repository contains files from when I was looking into Computer Architecture and CAD Design. It has some files from both Logisim, Nand2Tetris, and Solidworks. I also have some from Multisim from Intro to Microelectronics, but I already have that from a previous year.
